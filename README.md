@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x00. ES6 Basics
 JavaScript
 ES6
@@ -70,3 +71,9 @@ Click to show/hide file contents
 Click to show/hide file contents
 Finally…
 Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
+=======
+# Alx-backend-javascript
+Repo size Repo License Latest commit
+
+This repo contains projects for learning back end development concepts with JavaScript.
+>>>>>>> 1d1017b0cf7ecdfd11ab1997602b5edbd2f5bb5b
